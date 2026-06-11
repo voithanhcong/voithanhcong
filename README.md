@@ -11,7 +11,7 @@
   <hr style="border: 1px solid #00A651; width: 50%;">
 
   <h3 style="color: #001A33;">Thông Tin Liên Hệ</h3>
-  <ul style="list-style-type: none; padding: 0; text-align: center; color: #333333; font-size: 15px;">
+  <ul style="list-style-type: none; padding: 0; text-align: left; color: #333333; font-size: 15px;">
     <li><strong>Hotline/Zalo:</strong> 0777.1777.15</li>
     <li><strong>Địa chỉ:</strong> 25/24A Tân Chánh Hiệp 17, Phường Trung Mỹ Tây, TPHCM.</li>
     <li><strong>Mã số thuế:</strong> 0319418472</li>
