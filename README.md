@@ -27,8 +27,8 @@
     <a href="https://voithanhcong.com/">
       <img src="https://img.shields.io/badge/Website_Chính_Thức-001A33?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Vôi Thành Công">
     </a>
-    <a href="https://www.youtube.com/@voithanhcong">
-      <img src="https://img.shields.io/badge/Kênh_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Vôi Thành Công">
+    <a href="https://about.me/voithanhcong">
+      <img src="https://img.shields.io/badge/Hồ_Sơ_About.me-00A651?style=for-the-badge&logo=aboutme&logoColor=white" alt="About.me Vôi Thành Công">
     </a>
   </p>
 </div>
